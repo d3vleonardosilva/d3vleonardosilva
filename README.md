@@ -5,7 +5,8 @@
 
 I love the idea of ​​being a DEV, I dream of programming since I was young, at 17 I studied programming logic, then in college too, I studied VB, and in this year 2022 I set my goal to be a DEV FRONT END, that's it, no I'm going to give up, I'm a computer technician, I'm dividing my time at dawn and, with Bluetooth headphones all day, I'm listening to several podcasts of HTML+CSS+JS development classes and others with similar content to achieve my goal.
 
-<<<======>>>
+//====================================================
+
 - 👋 Oi, eu sou @d3vleonardosilva;
 - 👀 Estou interessado em me tornar um desenvolvedor front-end através de muito estudo e também desejo muito uma vaga de estágio, trainee ou júnior;
 - 🌱 Atualmente estou aprendendo LOGICA DE PROGRAMAÇÃO, HTML, CSS, JS, NODE.JS, GIT/GITHUB E FIGMA;

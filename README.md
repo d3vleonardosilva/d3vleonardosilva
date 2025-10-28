@@ -47,7 +47,6 @@ Atualmente estou focado em aprimorar minhas habilidades em **HTML, CSS, JavaScri
 
 📱 **WhatsApp:** +55 11 93960-9500  
 🌐 **LinkedIn:** [www.linkedin.com/in/leonardosilva-ti](https://www.linkedin.com/in/leonardosilva-ti)  
-💻 **Portfólio:** *(adicione aqui quando tiver seu site ou projetos publicados)*  
 
 ---
 
